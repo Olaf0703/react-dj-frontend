@@ -1,0 +1,35 @@
+export const     dictionary:any = Object.freeze({
+  "EN_US": {
+    settings: 'Settings',
+    questions: 'questions',
+    reachUsAndWeWillHelpYou: 'Reach us and we will help you',
+    contact: ' Contact',
+    paymentCardMessage: 'Your credit card on file will be charged for this plan.',
+    submit: 'Submit',
+    radioLabelGold: 'Gold Package',
+    radioLabelCombo: 'Combo Package(Pick 2)',
+    radioLabelSolo: 'Solo Package',
+  },
+  "TH": {
+    radioLabelGold: 'แพ็คเกจทอง',
+    radioLabelCombo: 'แพ็กเกจคอมโบ (เลือก 2)',
+    radioLabelSolo: 'แพ็คเกจเดี่ยว',
+    submit: 'ส่ง',
+    paymentCardMessage: 'บัตรเครดิตของคุณในระบบจะถูกเรียกเก็บเงินสำหรับแผนนี้',
+    settings: 'การตั้งค่า',
+    questions: 'คำถาม',
+    reachUsAndWeWillHelpYou: 'ติดต่อเราและเราจะช่วยคุณ',
+    contact: ' ติดต่อ',
+  },
+  'ES_MX': {
+    submit: 'Entregar',
+    radioLabelGold: 'Paquete de oro',
+    radioLabelCombo: 'Paquete combinado (Elige 2)',
+    radioLabelSolo: 'Paquete individual',
+    paymentCardMessage: 'Su tarjeta de crédito registrada será cargada por este plan.',
+    settings: 'Ajustes',
+    questions: 'preguntas',
+    reachUsAndWeWillHelpYou: 'Contáctanos y te ayudaremos',
+    contact: ' Contacto',
+  }
+});
